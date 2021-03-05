@@ -1,5 +1,6 @@
 from sys import argv
 import os.path
+
 class AppParams:
     def __init__(self):
         self.ID_TKN, self.DATA_TKN =  'id','data',
